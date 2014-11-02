@@ -17,7 +17,7 @@
     <node id="n0">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
-          <y:Geometry height="51.5" width="149.0" x="242.0" y="62.0"/>
+          <y:Geometry height="51.5" width="149.0" x="245.90000000000003" y="82.0"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="36.59375" modelName="custom" textColor="#000000" underlinedText="true" visible="true" width="140.212890625" x="4.3935546875" y="7.453125">Zona Publica
