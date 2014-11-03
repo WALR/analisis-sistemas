@@ -321,41 +321,6 @@ Interesados<y:LabelModel>
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="59.0" width="129.8" x="577.665238833427" y="358.1326530612246"/>
-          <y:Fill color="#677FFF" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="34.265625" modelName="custom" textColor="#000000" visible="true" width="90.8359375" x="19.482031249999977" y="12.3671875">Rutas
-Interesados<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
-          <y:Shape type="ellipse"/>
-        </y:ShapeNode>
-      </data>
-    </node>
-    <node id="n18">
-      <data key="d6">
-        <y:GenericNode configuration="com.yworks.flowchart.start2">
-          <y:Geometry height="58.50632911392404" width="117.01265822784808" x="584.0589097195029" y="459.15169911462897"/>
-          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="40.732421875" x="38.14011817642404" y="20.26878955696202">Leido<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
-        </y:GenericNode>
-      </data>
-    </node>
-    <node id="n19">
-      <data key="d4"/>
-      <data key="d6">
-        <y:ShapeNode>
           <y:Geometry height="59.0" width="129.8" x="724.6778970612753" y="358.1326530612246"/>
           <y:Fill color="#677FFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
@@ -370,7 +335,7 @@ Interesados<y:LabelModel>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n20">
+    <node id="n18">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.start2">
           <y:Geometry height="71.53164556962025" width="143.0632911392405" x="683.1781331569916" y="452.6390408867808"/>
@@ -387,7 +352,7 @@ Conductor<y:LabelModel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n21">
+    <node id="n19">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.start2">
           <y:Geometry height="58.50632911392404" width="117.01265822784808" x="774.1039087962843" y="459.1516991146289"/>
@@ -404,11 +369,11 @@ Ruta<y:LabelModel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n22">
+    <node id="n20">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="59.0" width="129.8" x="500.06218582040503" y="517.6580282285531"/>
+          <y:Geometry height="59.0" width="129.8" x="553.3781331569917" y="517.6580282285531"/>
           <y:Fill color="#677FFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="19.1328125" modelName="custom" textColor="#000000" visible="true" width="66.31494140625" x="31.742529296874977" y="19.93359375">Historial<y:LabelModel>
@@ -422,10 +387,10 @@ Ruta<y:LabelModel>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n23">
+    <node id="n21">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.start2">
-          <y:Geometry height="71.53164556962025" width="143.0632911392405" x="451.57145618740105" y="611.5174373546892"/>
+          <y:Geometry height="71.53164556962025" width="143.0632911392405" x="504.8874035239877" y="611.5174373546892"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="62.095703125" x="40.483794007120196" y="19.797072784810098">Por
@@ -439,10 +404,10 @@ Vehiculo<y:LabelModel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n24">
+    <node id="n22">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.start2">
-          <y:Geometry height="58.50632911392404" width="117.01265822784808" x="542.4972318266937" y="618.0300955825372"/>
+          <y:Geometry height="58.50632911392404" width="117.01265822784808" x="595.8131791632803" y="618.0300955825372"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="35.6171875" x="40.69773536392404" y="13.28441455696202">Por 
@@ -456,11 +421,11 @@ Ruta<y:LabelModel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n25">
+    <node id="n23">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="36.930379746835456" width="85.1417721518988" x="523.8838653116962" y="706.5364246964614"/>
+          <y:Geometry height="36.930379746835456" width="85.1417721518988" x="577.1998126482829" y="706.5364246964614"/>
           <y:Fill color="#677FFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="19.1328125" modelName="custom" textColor="#000000" visible="true" width="48.83984375" x="18.150964200949375" y="8.898783623417785">Orden<y:LabelModel>
@@ -474,10 +439,10 @@ Ruta<y:LabelModel>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n26">
+    <node id="n24">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.start2">
-          <y:Geometry height="90.13924050632909" width="180.27848101265818" x="428.74715645093687" y="783.1110236960152"/>
+          <y:Geometry height="90.13924050632909" width="180.27848101265818" x="482.0631037875235" y="783.1110236960152"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="83.37109375" x="48.453693631329145" y="36.085245253164544">Ascendente<y:LabelModel>
@@ -490,10 +455,10 @@ Ruta<y:LabelModel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n27">
+    <node id="n25">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.start2">
-          <y:Geometry height="90.13924050632909" width="180.27848101265818" x="527.2507730874647" y="783.1110236960152"/>
+          <y:Geometry height="90.13924050632909" width="180.27848101265818" x="580.5667204240514" y="783.1110236960152"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="92.18359375" x="44.04744363132909" y="36.085245253164544">Descendente<y:LabelModel>
@@ -506,7 +471,7 @@ Ruta<y:LabelModel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n28">
+    <node id="n26">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -524,7 +489,7 @@ Ruta<y:LabelModel>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n29">
+    <node id="n27">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -542,7 +507,7 @@ Ruta<y:LabelModel>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n30">
+    <node id="n28">
       <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
@@ -560,7 +525,7 @@ Ruta<y:LabelModel>
         </y:ShapeNode>
       </data>
     </node>
-    <node id="n31">
+    <node id="n29">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.start2">
           <y:Geometry height="73.39240506329111" width="146.78481012658222" x="964.1489078730656" y="451.7086611399453"/>
@@ -576,7 +541,7 @@ Ruta<y:LabelModel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n32">
+    <node id="n30">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.start2">
           <y:Geometry height="73.39240506329111" width="146.78481012658222" x="1050.5403815293819" y="451.7086611399453"/>
@@ -918,31 +883,6 @@ Ruta<y:LabelModel>
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="288.5428571428571" y="331.6326530612246"/>
-            <y:Point x="642.565238833427" y="331.6326530612246"/>
-          </y:Path>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e26" source="n17" target="n18">
-      <data key="d8"/>
-      <data key="d10">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:BendStyle smoothed="false"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="e27" source="n3" target="n19">
-      <data key="d8"/>
-      <data key="d10">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="288.5428571428571" y="331.6326530612246"/>
             <y:Point x="789.5778970612753" y="331.6326530612246"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
@@ -951,7 +891,7 @@ Ruta<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e28" source="n19" target="n20">
+    <edge id="e26" source="n17" target="n18">
       <data key="d8"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -965,7 +905,7 @@ Ruta<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e29" source="n19" target="n21">
+    <edge id="e27" source="n17" target="n19">
       <data key="d8"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -979,13 +919,13 @@ Ruta<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e30" source="n3" target="n22">
+    <edge id="e28" source="n3" target="n20">
       <data key="d8"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="29.5" tx="0.0" ty="0.0">
             <y:Point x="288.5428571428571" y="331.6326530612246"/>
-            <y:Point x="564.962185820405" y="331.6326530612246"/>
+            <y:Point x="618.2781331569917" y="331.6326530612246"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -993,13 +933,13 @@ Ruta<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e31" source="n22" target="n23">
+    <edge id="e29" source="n20" target="n21">
       <data key="d8"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-25.43603367699211">
-            <y:Point x="564.962185820405" y="591.5174373546892"/>
-            <y:Point x="523.1031017570212" y="591.5174373546892"/>
+            <y:Point x="618.2781331569917" y="591.5174373546892"/>
+            <y:Point x="576.419049093608" y="591.5174373546892"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1007,13 +947,13 @@ Ruta<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e32" source="n22" target="n24">
+    <edge id="e30" source="n20" target="n22">
       <data key="d8"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="564.962185820405" y="591.5174373546892"/>
-            <y:Point x="601.0035609406177" y="591.5174373546892"/>
+            <y:Point x="618.2781331569917" y="591.5174373546892"/>
+            <y:Point x="654.3195082772044" y="591.5174373546892"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1021,13 +961,13 @@ Ruta<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e33" source="n23" target="n25">
+    <edge id="e31" source="n21" target="n23">
       <data key="d8"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-10.976265822784853">
-            <y:Point x="523.1031017570212" y="691.5364246964614"/>
-            <y:Point x="566.4547513876456" y="691.5364246964614"/>
+            <y:Point x="576.419049093608" y="691.5364246964614"/>
+            <y:Point x="619.7706987242323" y="691.5364246964614"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1035,13 +975,13 @@ Ruta<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e34" source="n24" target="n25">
+    <edge id="e32" source="n22" target="n23">
       <data key="d8"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="601.0035609406177" y="691.5364246964614"/>
-            <y:Point x="566.4547513876456" y="691.5364246964614"/>
+            <y:Point x="654.3195082772044" y="691.5364246964614"/>
+            <y:Point x="619.7706987242323" y="691.5364246964614"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1049,13 +989,13 @@ Ruta<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e35" source="n25" target="n26">
+    <edge id="e33" source="n23" target="n24">
       <data key="d8"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-27.34539025621757">
-            <y:Point x="566.4547513876456" y="773.4898634367446"/>
-            <y:Point x="518.886396957266" y="773.4898634367446"/>
+            <y:Point x="619.7706987242323" y="773.4898634367446"/>
+            <y:Point x="572.2023442938525" y="773.4898634367446"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1063,13 +1003,13 @@ Ruta<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e36" source="n25" target="n27">
+    <edge id="e34" source="n23" target="n25">
       <data key="d8"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="12.897378672412515" tx="0.0" ty="0.0">
-            <y:Point x="566.4547513876456" y="773.4898634367446"/>
-            <y:Point x="617.3900135937938" y="773.4898634367446"/>
+            <y:Point x="619.7706987242323" y="773.4898634367446"/>
+            <y:Point x="670.7059609303805" y="773.4898634367446"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1077,7 +1017,7 @@ Ruta<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e37" source="n4" target="n1">
+    <edge id="e35" source="n4" target="n1">
       <data key="d8"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -1088,7 +1028,7 @@ Ruta<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e38" source="n4" target="n29">
+    <edge id="e36" source="n4" target="n27">
       <data key="d8"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -1099,7 +1039,7 @@ Ruta<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e39" source="n4" target="n28">
+    <edge id="e37" source="n4" target="n26">
       <data key="d8"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -1113,7 +1053,7 @@ Ruta<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e40" source="n4" target="n30">
+    <edge id="e38" source="n4" target="n28">
       <data key="d8"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -1127,7 +1067,7 @@ Ruta<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e41" source="n29" target="n31">
+    <edge id="e39" source="n27" target="n29">
       <data key="d8"/>
       <data key="d10">
         <y:PolyLineEdge>
@@ -1141,7 +1081,7 @@ Ruta<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e42" source="n29" target="n32">
+    <edge id="e40" source="n27" target="n30">
       <data key="d8"/>
       <data key="d10">
         <y:PolyLineEdge>
