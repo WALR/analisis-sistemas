@@ -150,7 +150,7 @@ Conductor<y:LabelModel>
           <y:Geometry height="54.0" width="103.40425531914894" x="315.4978723404255" y="581.0000000000001"/>
           <y:Fill color="#00FFFF" color2="#00CCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="78.080078125" x="12.6620885970745" y="11.03125">Resultado
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="31.9375" modelName="custom" textColor="#000000" visible="true" width="78.080078125" x="12.662088597074444" y="11.03125">Resultado
 Estadistica<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
