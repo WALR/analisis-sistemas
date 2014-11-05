@@ -15,7 +15,6 @@
   <graph edgedefault="directed" id="G">
     <data key="d0"/>
     <node id="n0">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
           <y:Geometry height="122.0" width="108.44444444444444" x="84.0" y="68.0"/>
@@ -42,19 +41,17 @@ color
       </data>
     </node>
     <node id="n1">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
           <y:Geometry height="122.0" width="108.44444444444444" x="600.0" y="68.0"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="32.294921875" x="38.07476128472217" y="4.0">ruta</y:NodeLabel>
-          <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="87.8125" modelName="custom" textColor="#000000" visible="true" width="48.70703125" x="2.0" y="29.96875">id #
-modelo
-marca
-chasis
-placa
-color
+          <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="73.84375" modelName="custom" textColor="#000000" visible="true" width="80.705078125" x="2.0" y="29.96875">id #
+nombre
+direccion
+lugarInicio
+lugarDestino
 <y:LabelModel>
               <y:ErdAttributesNodeLabelModel/>
             </y:LabelModel>
@@ -69,7 +66,6 @@ color
       </data>
     </node>
     <node id="n2">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
           <y:Geometry height="122.0" width="108.44444444444444" x="342.0" y="223.0"/>
@@ -95,7 +91,6 @@ cod_emp
       </data>
     </node>
     <node id="n3">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
           <y:Geometry height="174.0" width="108.4444444444444" x="600.0" y="308.0"/>
@@ -125,13 +120,12 @@ email<y:LabelModel>
       </data>
     </node>
     <node id="n4">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
           <y:Geometry height="88.25" width="78.44444444444444" x="797.4444444444445" y="350.875"/>
           <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="68.048828125" x="5.1978081597222285" y="4.0">categoria</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" backgroundColor="#B7C9E3" fontFamily="Dialog" fontSize="12" fontStyle="bold" hasLineColor="false" height="17.96875" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="68.048828125" x="5.197808159722172" y="4.0">categoria</y:NodeLabel>
           <y:NodeLabel alignment="left" autoSizePolicy="content" configuration="com.yworks.entityRelationship.label.attributes" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="custom" textColor="#000000" visible="true" width="50.5703125" x="2.0" y="29.96875">id #
 nombre
 salario
@@ -149,7 +143,6 @@ salario
       </data>
     </node>
     <node id="n5">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
           <y:Geometry height="88.25" width="95.33333333333333" x="751.0" y="216.875"/>
@@ -172,7 +165,6 @@ privilegios<y:LabelModel>
       </data>
     </node>
     <node id="n6">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
           <y:Geometry height="122.0" width="108.44444444444444" x="84.0" y="398.0"/>
@@ -198,7 +190,6 @@ cod_encargado<y:LabelModel>
       </data>
     </node>
     <node id="n7">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.entityRelationship.big_entity">
           <y:Geometry height="149.0" width="123.44444444444444" x="389.0" y="492.29166666666663"/>
@@ -226,7 +217,6 @@ cod_empleado<y:LabelModel>
       </data>
     </node>
     <edge id="e0" source="n2" target="n0">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -240,7 +230,6 @@ cod_empleado<y:LabelModel>
       </data>
     </edge>
     <edge id="e1" source="n2" target="n1">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -254,7 +243,6 @@ cod_empleado<y:LabelModel>
       </data>
     </edge>
     <edge id="e2" source="n3" target="n6">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="64.0" tx="0.0" ty="0.0"/>
@@ -265,7 +253,6 @@ cod_empleado<y:LabelModel>
       </data>
     </edge>
     <edge id="e3" source="n0" target="n6">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="-27.0"/>
@@ -276,7 +263,6 @@ cod_empleado<y:LabelModel>
       </data>
     </edge>
     <edge id="e4" source="n3" target="n5">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -289,7 +275,6 @@ cod_empleado<y:LabelModel>
       </data>
     </edge>
     <edge id="e5" source="n3" target="n4">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -300,7 +285,6 @@ cod_empleado<y:LabelModel>
       </data>
     </edge>
     <edge id="e6" source="n7" target="n3">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -313,7 +297,6 @@ cod_empleado<y:LabelModel>
       </data>
     </edge>
     <edge id="e7" source="n2" target="n3">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-20.0" ty="-12.0">
